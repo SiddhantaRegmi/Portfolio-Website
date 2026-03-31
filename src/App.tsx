@@ -444,7 +444,7 @@ export default function App() {
             <div className="grid sm:grid-cols-3 gap-6 ">
               <a 
                 href="mailto:siddhantaregmi76@gmail.com"
-                className="flex flex-col items-center justify-center gap-2 p-6 w-fit bg-black rounded-2xl border border-zinc-800 hover:border-accent transition-colors group/link"
+                className="flex flex-col items-center justify-center gap-2 p-2 w-fit bg-black rounded-2xl border border-zinc-800 hover:border-accent transition-colors group/link"
               >
                 <Mail className="text-accent group-hover/link:scale-110 transition-transform" />
                 <span className="text-white font-bold">Email Me</span>
