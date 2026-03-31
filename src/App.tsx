@@ -441,10 +441,10 @@ export default function App() {
               Have a project in mind or just want to say hi? Feel free to reach out. I'm always open to new opportunities and collaborations.
             </p>
             
-            <div className="grid sm:grid-cols-3 gap-6 ">
+            <div className="grid sm:grid-cols-3 gap-4 ">
               <a 
                 href="mailto:siddhantaregmi76@gmail.com"
-                className="flex flex-col items-center justify-center gap-2 p-2 w-fit bg-black rounded-2xl border border-zinc-800 hover:border-accent transition-colors group/link"
+                className="flex flex-col items-center justify-center gap-2 p-2 bg-black rounded-2xl border border-zinc-800 hover:border-accent transition-colors group/link"
               >
                 <Mail className="text-accent group-hover/link:scale-110 transition-transform" />
                 <span className="text-white font-bold">Email Me</span>
